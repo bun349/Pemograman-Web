@@ -18,3 +18,7 @@ function bagi() {
     konversi(); 
     document.kirim.T3.value = val1 / val2; 
 }
+function kali() {
+    konversi(); 
+    document.kirim.T3.value = val1 * val2; 
+}
